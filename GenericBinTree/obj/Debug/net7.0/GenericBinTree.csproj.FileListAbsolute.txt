@@ -1,0 +1,24 @@
+C:\Users\carin\RiderProjects\GenericBinTree\GenericBinTree\bin\Debug\net7.0\GenericBinTree.deps.json
+C:\Users\carin\RiderProjects\GenericBinTree\GenericBinTree\bin\Debug\net7.0\GenericBinTree.dll
+C:\Users\carin\RiderProjects\GenericBinTree\GenericBinTree\bin\Debug\net7.0\GenericBinTree.pdb
+C:\Users\carin\RiderProjects\GenericBinTree\GenericBinTree\obj\Debug\net7.0\GenericBinTree.csproj.AssemblyReference.cache
+C:\Users\carin\RiderProjects\GenericBinTree\GenericBinTree\obj\Debug\net7.0\GenericBinTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carin\RiderProjects\GenericBinTree\GenericBinTree\obj\Debug\net7.0\GenericBinTree.AssemblyInfoInputs.cache
+C:\Users\carin\RiderProjects\GenericBinTree\GenericBinTree\obj\Debug\net7.0\GenericBinTree.AssemblyInfo.cs
+C:\Users\carin\RiderProjects\GenericBinTree\GenericBinTree\obj\Debug\net7.0\GenericBinTree.csproj.CoreCompileInputs.cache
+C:\Users\carin\RiderProjects\GenericBinTree\GenericBinTree\obj\Debug\net7.0\GenericBinTree.dll
+C:\Users\carin\RiderProjects\GenericBinTree\GenericBinTree\obj\Debug\net7.0\refint\GenericBinTree.dll
+C:\Users\carin\RiderProjects\GenericBinTree\GenericBinTree\obj\Debug\net7.0\GenericBinTree.pdb
+C:\Users\carin\RiderProjects\GenericBinTree\GenericBinTree\obj\Debug\net7.0\ref\GenericBinTree.dll
+C:\Users\carin\RiderProjects\GenericBinTree - Kopie\GenericBinTree\bin\Debug\net7.0\GenericBinTree.deps.json
+C:\Users\carin\RiderProjects\GenericBinTree - Kopie\GenericBinTree\bin\Debug\net7.0\GenericBinTree.dll
+C:\Users\carin\RiderProjects\GenericBinTree - Kopie\GenericBinTree\bin\Debug\net7.0\GenericBinTree.pdb
+C:\Users\carin\RiderProjects\GenericBinTree - Kopie\GenericBinTree\obj\Debug\net7.0\GenericBinTree.csproj.AssemblyReference.cache
+C:\Users\carin\RiderProjects\GenericBinTree - Kopie\GenericBinTree\obj\Debug\net7.0\GenericBinTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carin\RiderProjects\GenericBinTree - Kopie\GenericBinTree\obj\Debug\net7.0\GenericBinTree.AssemblyInfoInputs.cache
+C:\Users\carin\RiderProjects\GenericBinTree - Kopie\GenericBinTree\obj\Debug\net7.0\GenericBinTree.AssemblyInfo.cs
+C:\Users\carin\RiderProjects\GenericBinTree - Kopie\GenericBinTree\obj\Debug\net7.0\GenericBinTree.csproj.CoreCompileInputs.cache
+C:\Users\carin\RiderProjects\GenericBinTree - Kopie\GenericBinTree\obj\Debug\net7.0\GenericBinTree.dll
+C:\Users\carin\RiderProjects\GenericBinTree - Kopie\GenericBinTree\obj\Debug\net7.0\refint\GenericBinTree.dll
+C:\Users\carin\RiderProjects\GenericBinTree - Kopie\GenericBinTree\obj\Debug\net7.0\GenericBinTree.pdb
+C:\Users\carin\RiderProjects\GenericBinTree - Kopie\GenericBinTree\obj\Debug\net7.0\ref\GenericBinTree.dll
